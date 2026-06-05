@@ -1,1 +1,8 @@
+location:
+  latitude: 23.0225
+  longitude: 72.5714
+tracking_interval_minutes: 15
+safe_angle: 30
+cloud_cover_threshold: 70
+openweather_api_key: YOUR_API_KEY
 
